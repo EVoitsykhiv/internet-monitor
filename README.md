@@ -29,3 +29,8 @@ Edit `config.py`:
 
 HOST = "1.1.1.1"
 CHECK_INTERVAL = 30
+
+## Example log
+
+2026-03-04 12:01:01 - INFO - Internet connection OK
+2026-03-04 12:01:31 - ERROR - Internet connection DOWN
